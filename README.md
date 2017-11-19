@@ -1,4 +1,3 @@
 Visit Bandung
 =======
-
-Responsive HTML theme based on Bootstrap 3
+ini adalah Dummy mini  projek dari kegiatan pelatihan yang diselenggarakan oleh Talent Bandung.
